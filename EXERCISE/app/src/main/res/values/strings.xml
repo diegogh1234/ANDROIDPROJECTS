@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EXERCISE</string>
+    <string name="enviar">ENVIAR</string>
+    <string name="texto">Ingrese texto</string>
+</resources>
