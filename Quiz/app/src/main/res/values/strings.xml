@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="Question">Es Lima capital de Chile?</string>
+    <string name="falso">Falso</string>
+    <string name="verdadero">Verdadero</string>
+    <string name="avance">avance</string>
+</resources>
