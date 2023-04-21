@@ -16,6 +16,7 @@ val CAMERA_REQUEST_CODE=0
 class MainActivity : AppCompatActivity() {
     lateinit var questions: ArrayList<Question>
     var position = 0
+    val hello="hello"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
