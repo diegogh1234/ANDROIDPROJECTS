@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PersistenciaSharedPref</string>
+    <string name="grabar">Grabar</string>
+    <string name="ingrese_nombre">ingrese nombre</string>
+    <string name="retrieve">retrieve</string>
+</resources>
